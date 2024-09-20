@@ -1,0 +1,8 @@
+.App * {
+  margin-right : 5px;
+}
+
+.flag {
+  border-color: black;
+  border-width: 2px;
+}

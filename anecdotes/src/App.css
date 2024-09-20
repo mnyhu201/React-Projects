@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+  padding : 10px;
+}
+
+
+.App * {
+  margin-top : 5px;
+  margin-bottom : 5px;
+}
+
+
